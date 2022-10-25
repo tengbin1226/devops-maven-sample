@@ -17,7 +17,6 @@ pipeline {
         DOCKERHUB_NAMESPACE = 'eternalsupreme'
         GITHUB_ACCOUNT = 'tengbin1226'
         APP_NAME = 'qianyuemall-devops-java'
-        SONAR_CREDENTIAL_ID = 'kubesphere'
     }
 
     stages {
